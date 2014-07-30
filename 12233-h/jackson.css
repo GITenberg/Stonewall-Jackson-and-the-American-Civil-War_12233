@@ -1,0 +1,254 @@
+
+body { margin:10%; text-align:justify;
+       background-color: #FFFFcc;
+     }
+
+p { text-indent: 5%; margin-top: 0pt; margin-bottom: 0%;
+  }
+p.one { text-indent: 0%; }
+p.two { text-align: center; }
+p.three { text-align: right; }
+p.folio { text-align: right;
+          font-size: 8pt;
+          line-height: 10pt;
+          color: red;
+          margin-top: 18pt; margin-bottom: 15pt;
+        }
+
+p.fnote { text-align: left;
+          font-size: 9pt;
+          line-height: 10pt;
+          text-indent: 0%;
+          margin-top: 4pt;
+          color: teal;
+          background-color: white;
+        }
+p.fnote2 { text-align: left;
+           font-size: 9pt;
+           line-height: 10pt;
+           text-indent: 5%;
+           margin-top: 0%;
+           color: teal;
+           background-color: white;
+        }
+p.fnote3 { text-align: right;
+           font-size: 9pt;
+           line-height: 10pt;
+           text-indent: 0%;
+           margin-top: 0pt;
+           margin-bottom: 0pt;
+           color: teal;
+           background-color: white;
+        }
+p.verse { text-indent: 0;
+          text-align: left;
+          font-size: 9pt;
+          line-height: 11pt;
+          margin-top: 6pt;
+          margin-bottom: 6pt;
+          margin-left: 36pt;
+        }
+p.rail { text-align: left;
+         font-size: 9pt;
+         line-height: 11pt;
+         text-indent: 5%;
+       }
+sup { font-size: 9pt;
+      color: red;
+    }
+
+a:link { text-decoration: none;
+         color: purple;
+       }
+a:visited { text-decoration: none; }
+
+
+p.ref { font-size: 9pt;
+        color: blue;
+        text-align: left;
+        text-indent: 0%;
+      }
+sup.fn { font-size: 7pt;
+         color: red;
+         margin-top: 0%;
+       }
+sup.fn1 { font-size: 7pt;
+          color: red;
+          margin-top: 0pt;
+          line-height: 14pt;
+        }
+sup.fn2 { font-size: 7pt;
+          color: red;
+          margin-top: 2pt;
+        }
+
+span.date { font-family: "Franklin Gothic Demi Cond", sans-serif;
+            color: red;
+            font-size: 9pt;
+            line-height: 13pt;
+            text-indent: 0%; margin-top: 0pt;
+            margin-bottom: 0pt;
+          }
+p.ind { text-align: left;
+        background: lightyellow;
+        color: black;
+        font-size: 9pt;
+        line-height: 11pt;
+        font-family: "Century Schoolbook", serif;
+        text-indent: 0%; margin-top: 0pt; margin-bottom: 0%;
+      }
+p.ind2 { text-align: left;
+         background: lightyellow;
+         color: blue;
+         font-size: 9pt;
+         line-height: 11pt;
+         font-family: "Century Schoolbook", serif;
+         text-indent: 0%; margin-top: 0pt;
+         margin-bottom: 0%; margin-left: 5%;
+       }
+p.ind3 { text-align: left;
+         background: lightyellow;
+         color: green;
+         font-size: 9pt;
+         line-height: 11pt;
+         font-family: "Century Schoolbook", serif;
+         text-indent: 0%; margin-top: 0pt;
+         margin-bottom: 0%; margin-left: 10%;
+       }
+p.ind4 { text-align: left;
+         background: lightyellow;
+         color: olive;
+         font-size: 9pt;
+         line-height: 11pt;
+         font-family: "Century Schoolbook", serif;
+         text-indent: 0%; margin-top: 0pt;
+         margin-bottom: 0%; margin-left: 15%;
+       }
+
+div.rail { text-align: left;
+           color: black;
+           font-size: 9pt;
+           line-height: 11pt;
+           font-family: "Century Schoolbook", serif;
+           text-indent: 5%; margin-top: 0pt; margin-bottom: 0%;
+         }
+table.p140 { width: 80%;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: teal;
+           }
+table.p424 { width: 60%;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: teal;
+             background-color: white;
+           }
+table.p208 { width: 480px;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: teal;
+             background-color: white;
+           }
+
+table.p53 { width: 480px;
+            font-size: 9pt;
+            line-height: 10pt;
+            color: teal;
+            background-color: white;
+           }
+
+table.p385 { width: 60%;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: teal;
+           }
+table.p401 { width: 50%;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: teal;
+             background-color: white;
+           }
+
+table.p168 { width: 80%; border: 0;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: black;
+           }
+table.p446 { width: 60%;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: black;
+           }
+
+table.p220 { width: 90%;
+             font-family: "Century Schoolbook", serif;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: black;
+           }
+table.p262 { width: 100%;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: black;
+           }
+table.p500 { width: 100%;
+             font-size: 8pt;
+             line-height: 9pt;
+             color: black;
+           }
+
+table.p355 { width: 600px;
+             font-size: 9pt;
+             line-height: 10pt;
+             color: black;
+           }
+table.p403 { width: 600px;
+             font-size: 8pt;
+             line-height: 8pt;
+             color: black;
+           }
+
+div.short { width: 78%; }
+
+p.note { text-align: left;
+         font-size: 9pt;
+         line-height: 10pt;
+         text-indent: 5%;
+         margin-top: 0pt;
+         color: black;
+       }
+
+
+
+p.note1 { text-align: center;
+          font-size: 9pt;
+          line-height: 10pt;
+          text-indent: 0%;
+          margin-top: 0pt;
+          margin-bottom: 2pt;
+          color: black;
+        }
+p.note2 { text-align: left;
+          font-size: 9pt;
+          line-height: 10pt;
+          text-indent: 0%;
+          margin-top: 0pt;
+          color: black;
+        }
+p.note3 { text-align: right;
+          font-size: 9pt;
+          line-height: 10pt;
+          text-indent: 0%;
+          margin-top: 0pt;
+          color: black;
+        }
+p.p219 { text-align: right;
+         font-size: 11pt;
+         line-height: 13pt;
+         text-indent: 0%;
+         margin-top: 0pt;
+         color: black;
+       }
+pre.p309 { background-color: white;
+           color: teal;
+         }
