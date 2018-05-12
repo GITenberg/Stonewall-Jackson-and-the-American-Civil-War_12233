@@ -1,5 +1,5 @@
 _repo: Stonewall-Jackson-and-the-American-Civil-War_12233
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Wolseley, Garnet Wolseley, Viscount
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '36573'
     url: http://www.gutenberg.org/2009/agents/36573
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henderson, G. F. R. (George Francis Robert)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '4268'
     url: http://www.gutenberg.org/2009/agents/4268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12233#Stonewall-Jackson-and-the-American-Civil-War
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
